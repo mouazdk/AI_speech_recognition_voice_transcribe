@@ -1,7 +1,7 @@
 Three projects with Python to: 
 - record voice and save it as wav audio file
 - edit the rate and frames of an audio file
-- transcribe audio files with the ability to save the transcribtion as txt files.
+- transcribe audio files with the ability to save the transcribtion as txt files using AssemblyAI API.
 - implement speech recognition in Python in compinitaion with an OpenAI Voice Assistant to have automatic answers.
  
 
