@@ -35,9 +35,9 @@ if __name__ == "__main__":
     n_neg  = len(negatives)
     n_neut = len(neutrals)
 
-    print("Num positives:", n_pos)
-    print("Num negatives:", n_neg)
-    print("Num neutrals:", n_neut)
+    print("Positives included:", n_pos)
+    print("Negatives included:", n_neg)
+    print("Neutrals included:", n_neut)
 
     # ignore neutrals here
     r = n_pos / (n_pos + n_neg)
