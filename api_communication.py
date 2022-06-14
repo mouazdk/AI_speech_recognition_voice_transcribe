@@ -1,6 +1,7 @@
 import requests
 from api_secret import API_KEY_ASSEMBLYAI
 import time
+import json
 
 upload_endpoint = "https://api.assemblyai.com/v2/upload"
 transcript_endpoint = "https://api.assemblyai.com/v2/transcript"
@@ -24,8 +25,11 @@ def upload(filename):
 
 
 # 2. TO_DO - transcribe
-def transcribe(audio_url):
-    transcript_request  = { "audio_url": audio_url }
+def transcribe(audio_url, sentiment_analysis):
+    transcript_request  = { 
+        "audio_url": audio_url,
+        'sentiment_analysis': sentiment_analysis
+     }
     transcript_response = requests.post(transcript_endpoint, json=transcript_request, headers=headers)
     job_id = transcript_response.json()['id']
     return job_id
@@ -51,13 +55,19 @@ def get_transcription_result_url(audio_url):
 
 # 4. TO_DO - save transcribe 
 
-def save_transcript(audio_url, filename):
-    data, error = get_transcription_result_url(audio_url)
+def save_transcript(audio_url, filename, sentiment_analysis=False):
+    data, error = get_transcription_result_url(audio_url, sentiment_analysis)
 
     if data:
         text_filename = filename + ".txt"
         with open(text_filename, "w") as f:
             f.write(data['text'])
+
+        if sentiment_analysis: 
+            filename = title + "_sentiment.json"
+            with open(filename, "w") as f:
+                sentiment = data["sentiment_analysis_results"]
+                json.dump(sentiment, f, indent= 4)
         print('Transcription save!!')
     elif error:
         print("Error!!", error)

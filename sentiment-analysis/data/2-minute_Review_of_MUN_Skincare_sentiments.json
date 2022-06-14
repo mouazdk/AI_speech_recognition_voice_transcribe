@@ -1,0 +1,314 @@
+[
+    {
+        "text": "Okay, see this beauty?",
+        "start": 310,
+        "end": 1522,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8334463834762573,
+        "speaker": null
+    },
+    {
+        "text": "This is the new Aqui Purifying cleanser by Moon.",
+        "start": 1606,
+        "end": 5026,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8871847987174988,
+        "speaker": null
+    },
+    {
+        "text": "It's brand new.",
+        "start": 5098,
+        "end": 6030,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6034325361251831,
+        "speaker": null
+    },
+    {
+        "text": "It's an oilbased cleanser, but it's not just an oil.",
+        "start": 6140,
+        "end": 8974,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7547946572303772,
+        "speaker": null
+    },
+    {
+        "text": "It has this creamy consistency.",
+        "start": 9022,
+        "end": 10846,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5933032631874084,
+        "speaker": null
+    },
+    {
+        "text": "That's lovely.",
+        "start": 10918,
+        "end": 11554,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9710988402366638,
+        "speaker": null
+    },
+    {
+        "text": "You put it on a dry face and then rinse it off every really like.",
+        "start": 11602,
+        "end": 15282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.80606609582901,
+        "speaker": null
+    },
+    {
+        "text": "You can also use this with a washcloth if you want to exfoliate your skin a little bit more.",
+        "start": 15296,
+        "end": 19290,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5145796537399292,
+        "speaker": null
+    },
+    {
+        "text": "I really enjoy this.",
+        "start": 19400,
+        "end": 20358,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9827280640602112,
+        "speaker": null
+    },
+    {
+        "text": "And I'm not usually an oil cleanser kind of Gal.",
+        "start": 20384,
+        "end": 23242,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6010022759437561,
+        "speaker": null
+    },
+    {
+        "text": "And this is really lovely, gentle.",
+        "start": 23326,
+        "end": 27106,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9822739958763123,
+        "speaker": null
+    },
+    {
+        "text": "It smells great.",
+        "start": 27178,
+        "end": 27954,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9774190187454224,
+        "speaker": null
+    },
+    {
+        "text": "And it washes off completely.",
+        "start": 27992,
+        "end": 29720,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.601003110408783,
+        "speaker": null
+    },
+    {
+        "text": "The cool thing about the Aqui cleanser is that now it's part of this one, two, three Daily Essentials Cleansing System by Moon.",
+        "start": 30050,
+        "end": 37594,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9408514499664307,
+        "speaker": null
+    },
+    {
+        "text": "So it's super easy.",
+        "start": 37642,
+        "end": 38766,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8877559304237366,
+        "speaker": null
+    },
+    {
+        "text": "And there's two other steps that I'm going to tell you about right now.",
+        "start": 38828,
+        "end": 41574,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9041562676429749,
+        "speaker": null
+    },
+    {
+        "text": "The second step is the Anaeros Toner, which I have written about before.",
+        "start": 41672,
+        "end": 46398,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9293866753578186,
+        "speaker": null
+    },
+    {
+        "text": "I love it.",
+        "start": 46484,
+        "end": 47118,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9694594740867615,
+        "speaker": null
+    },
+    {
+        "text": "It balances the PH of the skin.",
+        "start": 47144,
+        "end": 49162,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7972224950790405,
+        "speaker": null
+    },
+    {
+        "text": "It's really good for sensitive skin that maybe gets red like mine.",
+        "start": 49246,
+        "end": 53398,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8943122625350952,
+        "speaker": null
+    },
+    {
+        "text": "And it's made of all these amazing ingredients.",
+        "start": 53554,
+        "end": 56086,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9284078478813171,
+        "speaker": null
+    },
+    {
+        "text": "So if you're even just looking for a Toner on its own, this is my favorite Toner of all time.",
+        "start": 56158,
+        "end": 60918,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9734078645706177,
+        "speaker": null
+    },
+    {
+        "text": "It has, let's see, Bulgarian rose water, hyaluronic acid, Willow bark extract, goji Berry extract.",
+        "start": 61004,
+        "end": 67990,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9092484712600708,
+        "speaker": null
+    },
+    {
+        "text": "It's really awesome.",
+        "start": 68050,
+        "end": 69090,
+        "sentiment": "POSITIVE",
+        "confidence": 0.982975423336029,
+        "speaker": null
+    },
+    {
+        "text": "And I kind of spray on my face all the time.",
+        "start": 69140,
+        "end": 71094,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6375565528869629,
+        "speaker": null
+    },
+    {
+        "text": "Last component is the Aknari Eh serum, which I think I've written about 5000 times.",
+        "start": 71252,
+        "end": 76242,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.818136990070343,
+        "speaker": null
+    },
+    {
+        "text": "It's one of my favorites.",
+        "start": 76316,
+        "end": 77470,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9769179821014404,
+        "speaker": null
+    },
+    {
+        "text": "It's main component is prickly pear seed oil, which is very moisturizing and lightweight.",
+        "start": 77530,
+        "end": 82138,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8670653700828552,
+        "speaker": null
+    },
+    {
+        "text": "And it's antiaging, which 42 got to be thinking about these things.",
+        "start": 82174,
+        "end": 86466,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6822118759155273,
+        "speaker": null
+    },
+    {
+        "text": "Anyway, I promised Munimi, who is the creator of this line, that I would give these three products together a full month trial before I said a word about them.",
+        "start": 86528,
+        "end": 97470,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7590774893760681,
+        "speaker": null
+    },
+    {
+        "text": "And I've just finished the month.",
+        "start": 97520,
+        "end": 99282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7903842329978943,
+        "speaker": null
+    },
+    {
+        "text": "So my thoughts are this.",
+        "start": 99356,
+        "end": 100518,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8059442043304443,
+        "speaker": null
+    },
+    {
+        "text": "I really like it.",
+        "start": 100604,
+        "end": 101970,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9656675457954407,
+        "speaker": null
+    },
+    {
+        "text": "My skin this past month has been very calm.",
+        "start": 102020,
+        "end": 105862,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9194731116294861,
+        "speaker": null
+    },
+    {
+        "text": "There have not been any sort of redness or flare ups.",
+        "start": 105946,
+        "end": 108634,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7388917803764343,
+        "speaker": null
+    },
+    {
+        "text": "It's had a really nice glow, so I'm impressed.",
+        "start": 108682,
+        "end": 112498,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9865779876708984,
+        "speaker": null
+    },
+    {
+        "text": "I'm definitely going to add that cleanser in.",
+        "start": 112534,
+        "end": 114354,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7397812604904175,
+        "speaker": null
+    },
+    {
+        "text": "And the Moon team is super awesome because they're offering 15% off any of their products is on their website with the code new essential.",
+        "start": 114452,
+        "end": 122878,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9886647462844849,
+        "speaker": null
+    },
+    {
+        "text": "Now, if you're wanting to know anything else, I have a much more robust review on my blog today to check it out.",
+        "start": 123034,
+        "end": 128460,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5443475246429443,
+        "speaker": null
+    }
+]
