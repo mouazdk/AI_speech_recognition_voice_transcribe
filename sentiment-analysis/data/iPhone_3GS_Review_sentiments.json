@@ -1,0 +1,162 @@
+[
+    {
+        "text": "What's up, guys?",
+        "start": 8290,
+        "end": 8814,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.746044933795929,
+        "speaker": null
+    },
+    {
+        "text": "This is Scott Lowe, Editor of Igngear.",
+        "start": 8852,
+        "end": 10606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9129018187522888,
+        "speaker": null
+    },
+    {
+        "text": "Today I'm going to be bringing you the official video review of the iPhone Three GS, the latest smartphone from Apple.",
+        "start": 10678,
+        "end": 15390,
+        "sentiment": "POSITIVE",
+        "confidence": 0.846498429775238,
+        "speaker": null
+    },
+    {
+        "text": "At first glance, the iPhone Three GS looks a lot like the iPhone 3G, but upon furthering inspection, you'll find that it has an improved battery life, increased CPU speeds, and for the first time ever, video support.",
+        "start": 16250,
+        "end": 25940,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9137595891952515,
+        "speaker": null
+    },
+    {
+        "text": "During our evaluations, we found that the iPhone Three GS does have an improved battery life over the 3G, but in terms of really active users, people who surf the web all the time, it doesn't really amount to a lot.",
+        "start": 27350,
+        "end": 37014,
+        "sentiment": "POSITIVE",
+        "confidence": 0.776908278465271,
+        "speaker": null
+    },
+    {
+        "text": "Maybe an extra hour or two in just about every function, including games, media and utilities.",
+        "start": 37112,
+        "end": 41686,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8431705832481384,
+        "speaker": null
+    },
+    {
+        "text": "In terms of speed, the iPhone Three GS is leaps and bounds over the iPhone 3G.",
+        "start": 41818,
+        "end": 45774,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9161423444747925,
+        "speaker": null
+    },
+    {
+        "text": "Games and applications load in half the time, media starts instantaneously and navigating the menus as a breeze.",
+        "start": 45872,
+        "end": 51570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7150839567184448,
+        "speaker": null
+    },
+    {
+        "text": "For the first time ever, iPhone users can record video directly to their device using a built in three megapixel camera.",
+        "start": 51890,
+        "end": 57730,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8742746710777283,
+        "speaker": null
+    },
+    {
+        "text": "From there, they can edit it in real time and then choose to either upload it directly to YouTube or send it to a friend by email.",
+        "start": 57850,
+        "end": 63750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8777344226837158,
+        "speaker": null
+    },
+    {
+        "text": "Despite all the great new features of the iPhone Three GS, there are a few shortcomings.",
+        "start": 63920,
+        "end": 67354,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.44871801137924194,
+        "speaker": null
+    },
+    {
+        "text": "For one, the battery is good, but it's not great.",
+        "start": 67402,
+        "end": 70026,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.44058120250701904,
+        "speaker": null
+    },
+    {
+        "text": "We would have liked to have seen a little extra juice out of the device.",
+        "start": 70088,
+        "end": 72418,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7428680062294006,
+        "speaker": null
+    },
+    {
+        "text": "As for the video side of things, the iPhone Three GS camera was not designed for high motion, so if you've got jittery hands or someone runs in front of the camera, it's going to blur.",
+        "start": 72514,
+        "end": 79558,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7013547420501709,
+        "speaker": null
+    },
+    {
+        "text": "So if you think you're going to make a Michael Bay film on your iPhone, it's not going to happen.",
+        "start": 79654,
+        "end": 83154,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5487207770347595,
+        "speaker": null
+    },
+    {
+        "text": "Lastly, the iPhone Three GS is a pricey endeavor for existing users.",
+        "start": 83312,
+        "end": 86362,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5768780708312988,
+        "speaker": null
+    },
+    {
+        "text": "If you have the iPhone 3G or the original iPhone, it's going to be a pricey upgrade for you.",
+        "start": 86386,
+        "end": 90678,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4895380735397339,
+        "speaker": null
+    },
+    {
+        "text": "At and T is charging the full list price for people who aren't eligible for an upgrade or in other words, haven't completed their two year contract.",
+        "start": 90764,
+        "end": 97162,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6112567782402039,
+        "speaker": null
+    },
+    {
+        "text": "In short, the iPhone Three GS is a solid, incremental upgrade from the iPhone 3G, packs a better battery, improved CPU performance and video support for the first time, but we would have liked to have seen a few tweaks here and there.",
+        "start": 97246,
+        "end": 107250,
+        "sentiment": "POSITIVE",
+        "confidence": 0.920598030090332,
+        "speaker": null
+    },
+    {
+        "text": "For the full written review, check out Gear, IGN.com.",
+        "start": 107300,
+        "end": 109560,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8921257257461548,
+        "speaker": null
+    }
+]

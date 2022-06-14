@@ -13,10 +13,10 @@ def save_video_sentiments(url):
         save_transcript(url, title, sentiment_analysis=True)
 
 if __name__ == "__main__":
-    # save_video_sentiments("https://www.youtube.com/watch?v=0b2cW7DSdQ0")
+    # save_video_sentiments("https://www.youtube.com/watch?v=7XeoWebrZBo")
     # line-19 (data/.... .json) has to be manual added it depends, which video URL we entered in the line `16`  
 
-    with open("data/2-minute_Review_of_MUN_Skincare_sentiments.json", "r") as f:
+    with open("data/iPhone_3GS_Review_sentiments.json", "r") as f:
         data = json.load(f)
     
     positives = []

@@ -10,11 +10,13 @@ FRAMES_PER_BUFFER = 3200
 
 audio = pyaudio.PyAudio()
 
-stream = audio.open(format=FORMAT,
-                channels=CHANNELS,
-                rate=RATE,
-                input=True,
-                frames_per_buffer=FRAMES_PER_BUFFER)
+stream = audio.open(
+    format=FORMAT,
+    channels=CHANNELS,
+    rate=RATE,
+    input=True,
+    frames_per_buffer=FRAMES_PER_BUFFER,
+)
 
 print("* start recording")
 
@@ -30,9 +32,9 @@ stream.stop_stream()
 stream.close()
 audio.terminate()
 
-obj = wave.open(WAVE_OUTPUT_FILENAME, 'wb')
+obj = wave.open(WAVE_OUTPUT_FILENAME, "wb")
 obj.setnchannels(CHANNELS)
 obj.setsampwidth(audio.get_sample_size(FORMAT))
 obj.setframerate(RATE)
-obj.writeframes(b''.join(frames))
+obj.writeframes(b"".join(frames))
 obj.close()
