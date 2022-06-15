@@ -3,6 +3,7 @@ import websockets
 import asyncio
 import base64
 import json
+from openai_helper import ask_computer
 from api_secret import API_KEY_ASSEMBLYAI
 
 FORMAT = pyaudio.paInt16
@@ -60,7 +61,8 @@ async def send_receive():
                     prompt = result["text"]
                     if prompt and result["message_type"] == "FinalTranscript":
                         print("Me:", prompt)
-                        print("Bot:", "this is answer")
+                        response= ask_computer(prompt)
+                        print("Bot:", "this is answer", response)
                 except websockets.exceptions.ConnectionClosedError as e:
                     print(e)
                     assert e.code == 4008
